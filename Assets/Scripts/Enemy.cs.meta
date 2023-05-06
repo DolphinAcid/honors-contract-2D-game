@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b17a489426d1b9140935526c17eb0916
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - collectiblePrefab: {fileID: 3688396876397916610, guid: 60dab56fdc5dfc640b8d734693b39b8d, type: 3}
+  - spriteRenderer: {instanceID: 0}
+  - highHealthSprite: {instanceID: 0}
+  - mediumHealthSprite: {instanceID: 0}
+  - lowHealthSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - Enemy
+  - Collectible
+  - Spawner
+  - GameOverScreen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Obstacles
+  - Enemy
+  - Collectibles
+  - Spawner
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 834201113
+    locked: 0
+  - name: Obstacles
+    uniqueID: 686078747
+    locked: 0
+  - name: Collectibles
+    uniqueID: 3618907167
+    locked: 0
+  - name: Enemies
+    uniqueID: 2968000647
+    locked: 0
+  - name: Player
+    uniqueID: 3427290351
+    locked: 0
+  - name: Tutorial Images
+    uniqueID: 1555011653
+    locked: 0
